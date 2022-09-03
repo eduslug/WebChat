@@ -17,24 +17,25 @@ Esse projeto foi desenvolvido seguindo os padrões de projeto.
 Clone o projeto e acesse a pasta do mesmo.
 ```sh
 
-$ git clone git@github.com:eduslug/WebChat.git
+git clone git@github.com:eduslug/WebChat.git
 ```
 ```sh
-$ cd WebChat
+  cd WebChat
 ```
 Para inicialo execute os passos abaixo.
 
 ## instale as dependências
 ```sh
-$ npm install
+ npm install
 ```
 # iniciar o projeto
 ```sh
-$# npm start
+ npm start
 ```
-O app estará disponível no seu browser pelo endereço
+
 ```sh
- http://localhost:3000
+
+O app estará disponível no seu browser  pelo endereço http://localhost:3000
 ```
 ## License MIT
 **Desenvolvido com amor 💜 by Eduardo**
