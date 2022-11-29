@@ -1,5 +1,6 @@
 # WebChat
-Projeto desenvolvido para treinar socket.io
+
+# Projeto feito em Node.js desenvolvido para treinar socket.io
 
 
 📝 Padrão de projeto
@@ -38,6 +39,6 @@ O app estará disponível no seu browser  pelo endereço http://localhost:3000
 ```
 
 ## License MIT 🖊️
-**Desenvolvido com amor 💜 by Eduardo**
+**Desenvolvido com 💜 by Eduardo**
 
 
